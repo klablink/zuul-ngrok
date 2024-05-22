@@ -13,8 +13,8 @@
     "ngrok"
   ],
   "dependencies": {
-    "ngrok": "3.1.0",
-    "xtend": "4.0.1"
+    "ngrok": "5.0.0-beta.2",
+    "xtend": "4.0.2"
   },
   "author": "Tony Kovanen <tonykovanen@hotmail.com>",
   "license": "MIT"
